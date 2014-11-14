@@ -1,7 +1,5 @@
 /* CSS Document */
 
-.footer {
-	position: relative;
-width: 700px;
-margin: 0 auto;
+.list-block ul {
+	background:none;
 }
