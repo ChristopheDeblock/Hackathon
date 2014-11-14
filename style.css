@@ -3,3 +3,15 @@
 .list-block ul {
 	background:none;
 }
+
+
+
+.icon-running {
+	width: 29px;
+height: 29px;
+background-image:url(images/runer.jpg);
+}
+
+.panel{
+	background-color:white;
+}
